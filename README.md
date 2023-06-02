@@ -32,7 +32,7 @@ We reserve the right to update or modify this Privacy Policy at any time. Any ch
 
 Contact Us:
 
-If you have any questions or concerns about this Privacy Policy or the App's privacy practices, please contact us at [Insert Contact Information].
+If you have any questions or concerns about this Privacy Policy or the App's privacy practices, please contact us at [fn.nicu@gmail.com].
 
 By using the "Magnet Polarity Detector" App, you agree to the collection and use of information as outlined in this Privacy Policy.
 
