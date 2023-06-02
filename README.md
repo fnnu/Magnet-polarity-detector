@@ -1,6 +1,6 @@
 Privacy Policy for "Magnet Polarity Detector" App
 
-Effective Date: [Insert Effective Date]
+Effective Date: [2023-06-01]
 
 Our "Magnet Polarity Detector" app (referred to as "the App") respects and protects the privacy of its users. This Privacy Policy explains how we collect, use, and disclose information when you use our App.
 
@@ -38,4 +38,4 @@ By using the "Magnet Polarity Detector" App, you agree to the collection and use
 
 This Privacy Policy is subject to the laws and regulations applicable in your jurisdiction.
 
-Last updated: [Insert Last Updated Date]
+Last updated: [2023-06-02]
