@@ -8,9 +8,6 @@ Information Collection and Use:
 
 Advertisements: The App displays advertisements from third-party ad networks, such as Google AdMob, to provide a free user experience. These ad networks may collect certain information to deliver targeted ads. We do not directly collect any personal information through these ads.
 
-Device Information: The App may automatically collect certain device information, including the type of device, operating system version, unique device identifiers, and mobile network information. This information is used to analyze trends, administer the App, improve user experience, and serve targeted advertisements.
-
-Non-Personal Information: The App may collect non-personal information, such as usage statistics and anonymous analytics data, to understand user behavior, enhance the functionality of the App, and improve our services.
 
 Permissions: The App may require certain permissions to access device features, such as the magnetic sensor, necessary for the proper functioning of the App. We do not use these permissions to collect personal information.
 
@@ -18,9 +15,6 @@ Data Security:
 
 We take reasonable measures to protect the information collected through the App. However, please note that no method of transmission or storage is 100% secure. We cannot guarantee the absolute security of your information.
 
-Third-Party Links and Services:
-
-The App may contain links to third-party websites, products, or services. These third-party sites have their own privacy policies, which we encourage you to review. We do not assume any responsibility for the content, privacy practices, or actions of third-party sites, products, or services.
 
 Children's Privacy:
 
